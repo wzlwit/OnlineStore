@@ -1,0 +1,191 @@
+form {
+    text-align: center;
+}
+
+.mg {
+    width: 40%;
+}
+
+div {
+    padding-top: 2ch;
+    padding-bottom: 2ch;
+}
+
+.h {
+    background-image: url(image/icon.png);
+    background-size: 100% 100%;
+    padding-left: 15ch;
+    padding-right: 20ch;
+    min-width: 950px;
+}
+
+.main {
+    margin: 0 auto;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    overflow: scroll;
+}
+
+.divmain {
+    float: left;
+    width: 78%;
+    padding-top: 5px;
+}
+
+.dt1 {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.dt2 {
+    width: 60%;
+    float: left;
+    padding-top: 2ch;
+    padding-bottom: 2ch;
+}
+
+.dt2l {
+    width: 40%;
+    float: left;
+    padding-top: 2ch;
+    padding-bottom: 2ch;
+}
+
+.profile {
+    min-width: 20ch;
+    width: 20%;
+    float: right;
+}
+
+.about {
+    width: 98%;
+    padding: 1ch;
+    float: left
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gold;
+    font-size: 40pt;
+    text-align: center;
+}
+
+h2 {
+    text-align: right;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    color: purple;
+}
+
+li {
+    display: inline;
+    padding: 1ch;
+    background-color: chocolate;
+    margin: 1ch;
+}
+li.norm {
+    display: inline;
+    padding: 1ch;
+    background-color: chocolate;
+    margin: 1ch;
+}
+
+li.focus {
+    display: inline;
+    padding: 1ch;
+    background-color:greenyellow;
+    margin: 1ch;
+}
+
+hr.dot2 {
+    border: dotted 2px darkgoldenrod;
+    width: 80%;
+}
+
+hr.s {
+    float: left;
+    width: 100%;
+    border: groove 3px darkkhaki;
+}
+
+img {
+    max-width: 100%;
+    margin: 1ch;
+}
+
+.pic {
+    max-height: 10ch;
+}
+
+table,
+th,
+td {
+    padding-left: 1ch;
+    padding-right: 1ch;
+}
+
+.bd {
+    border: solid grey 2px;
+    border-collapse: collapse;
+}
+
+.btn {
+    padding: 2ch;
+    text-align: center;
+}
+
+.log {
+    font-size: 18pt;
+    color: green;
+}
+
+.ta {
+    width: 60%;
+    height: 25ch;
+    text-align: left;
+    padding: 2ch;
+    resize: none;
+}
+
+textarea {
+    border: 0px;
+}
+
+.num {
+    width: 6ch;
+    size: 6ch;
+    margin: 1ch;
+}
+.desc{
+    border:1px solid grey;
+    width: 20.5ch;
+    height: 10ch;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.margin {
+    margin: 2ch;
+}
+
+input[type=button],
+input[type=submit],
+input[type=reset] {
+    font-size: 16;
+    font: bold;
+    font-family: georgia;
+}
+
+select,option{
+    font-size: 14pt;
+}
